@@ -2,4 +2,3 @@
     **Пример: "Номер вашей карты: **********1245" */
 let userCardNumber = prompt('Введите номер Вашей карты : ');
 document.write(`Последние 4 цифры Вашей карты : ${userCardNumber.replace(userCardNumber.slice(0, -4), "************")}`);
-let userCardNum = "1234 5678 9102 1234";
