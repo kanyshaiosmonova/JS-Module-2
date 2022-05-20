@@ -1,3 +1,3 @@
 //1. Простое сообщение: сохраните текстовое сообщение в переменной и выведите его в браузере
-// let goal = "I'll go till the end";
+// let goal = "What is your main focus for today?";
 // alert(goal);
